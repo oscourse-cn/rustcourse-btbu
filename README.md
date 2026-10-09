@@ -1,2 +1,2 @@
-# rustcourse-btut
-rustcourse-btut
+# rustcourse-btbu
+rustcourse-btbu
